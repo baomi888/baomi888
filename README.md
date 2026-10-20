@@ -1,6 +1,7 @@
-<!-- ===== 顶部头图 ===== -->
+<!-- ===== 头像 ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=875B10&height=150&section=header&text=%E5%86%AF%E9%9D%96%E8%B1%AA%20%7C%20Agent%20Builder&fontSize=32&fontColor=FFFFFF&animation=twinkling" alt="header" />
+  <img src="avatar.png" alt="冯靖豪" width="168" />
+  <h3>冯靖豪 · Agent Builder</h3>
 </div>
 
 <!-- ===== 打字动画 ===== -->
