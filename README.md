@@ -1,6 +1,6 @@
 <!-- ===== 头像 ===== -->
 <div align="center">
-  <img src="avatar.png" alt="冯靖豪" width="168" />
+  <img src="avatar.jpg" alt="冯靖豪" width="170" height="170" />
   <h3>冯靖豪 · Agent Builder</h3>
 </div>
 
