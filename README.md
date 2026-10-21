@@ -1,7 +1,6 @@
-<!-- ===== 头像 ===== -->
+<!-- ===== 顶部黄色横幅（头像已融入黄底） ===== -->
 <div align="center">
-  <img src="avatar.jpg" alt="冯靖豪" width="170" height="170" />
-  <h3>冯靖豪 · Agent Builder</h3>
+  <img src="hero_banner.png" alt="冯靖豪 · Agent Builder" />
 </div>
 
 <!-- ===== 打字动画 ===== -->
@@ -10,7 +9,6 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=baomi888&label=Profile%20Views&color=875B10&style=flat-square" alt="views" />
   <img src="https://img.shields.io/badge/Focus-Agent%20%E5%BC%80%E5%8F%91-875B10?style=flat-square" alt="focus" />
   <img src="https://img.shields.io/badge/Superpower-Vibe%20Coding-875B10?style=flat-square" alt="vibe" />
 </div>
